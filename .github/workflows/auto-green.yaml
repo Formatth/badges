@@ -28,7 +28,7 @@ jobs:
         run: |
           # GANTI EMAIL DAN NAMA DI SINI (JIKA MALAS PAKAI SECRETS)
           # Atau biarkan begini jika mau pakai Secrets
-          git config --local user.email "tatangsunandare@gmail.com"
+          git config --local user.email "mat@dev.yukinoshita.web.id"
           git config --local user.name "Formatth"
 
       - name: Random Commit Loop
